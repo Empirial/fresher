@@ -17,7 +17,7 @@ export default function About() {
             Fresher began with a simple belief: great taste should never come at the cost of your health or the planet. What started as a small kitchen experiment—pressing local fruits and vegetables into vibrant, nutrient-packed blends—quickly grew into a mission. Today, we craft every bottle using cold-pressed methods that lock in flavor and goodness, with no added sugars, preservatives, or shortcuts. From farm to fridge, we partner with growers who share our obsession for quality, ensuring each sip is as honest as the morning sun.
           </p>
           <p className="mt-4 text-base leading-relaxed text-muted-foreground md:text-lg">
-            But Fresher is more than just a drink—it's a promise. We’re committed to sustainable sourcing, recyclable packaging, and giving back to the communities that feed us. Whether you’re grabbing a quick boost before work or unwinding after a long day, our beverages are made to refresh your body and uplift your spirit. We don’t just sell refreshment; we pour care into every drop. That’s the Fresher way—pure, purposeful, and always in season.
+            But Fresher is more than just a drink—it's a promise. We're committed to sustainable sourcing, recyclable packaging, and giving back to the communities that feed us. Whether you're grabbing a quick boost before work or unwinding after a long day, our beverages are made to refresh your body and uplift your spirit. We don't just sell refreshment; we pour care into every drop. That's the Fresher way—pure, purposeful, and always in season.
           </p>
         </div>
       </div>
