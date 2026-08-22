@@ -2,19 +2,19 @@ export default function Services() {
   const services = [
     {
       title: "Initial Consultation",
-      description: "A free 20-minute phone consultation to discuss your needs, answer your questions, and determine if we're a good fit. No obligation—just clarity and a clear path forward.",
+      description: "A free 20-minute phone consultation to discuss your needs, answer your questions, and determine if we’re a good fit. No obligation—just clarity and a clear path forward.",
       price: "Free",
       ctaText: "Book Your Free Call",
     },
     {
       title: "Individual Therapy",
-      description: "One-on-one sessions tailored to your unique goals. We'll work together to build coping strategies, process challenges, and create lasting change in a safe, supportive space.",
+      description: "One-on-one sessions tailored to your unique goals. We’ll work together to build coping strategies, process challenges, and create lasting change in a safe, supportive space.",
       price: "$120 / session",
       ctaText: "Schedule a Session",
     },
     {
       title: "Couples Counseling",
-      description: "Strengthen your connection and navigate conflicts with guided, evidence-based support. We'll help you communicate better, rebuild trust, and move forward as a team.",
+      description: "Strengthen your connection and navigate conflicts with guided, evidence-based support. We’ll help you communicate better, rebuild trust, and move forward as a team.",
       price: "$150 / session",
       ctaText: "Book a Couples Session",
     },

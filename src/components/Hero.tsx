@@ -5,16 +5,16 @@ export default function Hero() {
         <div>
           <img
             src="https://placehold.co/960x640/e2e8f0/475569?text=hero"
-            alt="A calm, welcoming therapy office with soft natural light and a comfortable seating area"
+            alt="A bright, serene therapy office with soft natural light, a comfortable armchair, and a small plant on a side table"
             className="aspect-[4/3] w-full rounded-lg border border-border object-cover"
           />
         </div>
         <div className="flex flex-col items-start text-left">
           <h1 className="text-4xl font-bold tracking-tight text-foreground sm:text-5xl">
-            A Brighter Mind Starts With One Conversation
+            A Clearer Mind Begins With a Single Conversation
           </h1>
           <p className="mt-6 text-lg text-muted-foreground sm:text-xl">
-            I'm Dr. Sarah Mitchell, a licensed psychologist helping adults navigate anxiety, stress, and life transitions. Your first consultation is free—call 651-859-143 to see if we're a good fit.
+            I'm Dr. Sarah Mitchell, a licensed psychologist helping adults untangle anxiety, stress, and life’s big transitions. Your first consultation is free—call 651-859-143 to see if we're the right fit.
           </p>
           <a
             href="tel:651859143"

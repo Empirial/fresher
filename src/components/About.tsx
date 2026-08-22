@@ -5,7 +5,7 @@ export default function About() {
         <div>
           <img
             src="https://placehold.co/960x640/e2e8f0/475569?text=about"
-            alt="A warm, inviting photo of a psychologist's office with a comfortable chair and soft natural light, symbolizing a safe space for conversation"
+            alt="A cozy corner of a psychologist's office with a soft armchair, a small table with a box of tissues, and warm sunlight streaming through the window, creating a calm and welcoming atmosphere"
             className="aspect-[4/3] w-full rounded-lg border border-border object-cover"
           />
         </div>
