@@ -14,7 +14,7 @@ export default function Hero() {
             A Clearer Mind Begins With a Single Conversation
           </h1>
           <p className="mt-6 text-lg text-muted-foreground sm:text-xl">
-            I'm Dr. Sarah Mitchell, a licensed psychologist helping adults untangle anxiety, stress, and life’s big transitions. Your first consultation is free—call 651-859-143 to see if we're the right fit.
+            I'm Dr. Sarah Mitchell, a licensed psychologist helping adults untangle anxiety, stress, and life's big transitions. Your first consultation is free—call 651-859-143 to see if we're the right fit.
           </p>
           <a
             href="tel:651859143"
