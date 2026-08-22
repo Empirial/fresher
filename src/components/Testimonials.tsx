@@ -11,7 +11,7 @@ export default function Testimonials() {
 
         <blockquote className="mt-6">
           <p className="text-xl font-medium leading-relaxed text-foreground sm:text-2xl">
-            {"Fresher's is the only drink that actually tastes like real fruit—no fake sweetness, just pure refreshment. I reach for it every single day."}
+            {"“After just a few sessions, I finally felt heard and understood. Dr. Reyes gave me practical tools that actually work—I’m calmer, clearer, and more myself than I’ve been in years. If you’re on the fence, book that free consultation; it changed everything for me.”"}
           </p>
         </blockquote>
 

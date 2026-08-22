@@ -9,10 +9,10 @@ export default function Footer() {
             Ready to get started?
           </h2>
           <a
-            href={`#hero`}
+            href={`#about`}
             className="shrink-0 rounded-md bg-background px-6 py-3 text-sm font-semibold text-foreground transition-opacity hover:opacity-90"
           >
-            Home
+            About
           </a>
         </div>
       </div>
@@ -36,18 +36,18 @@ export default function Footer() {
               <ul className="space-y-3">
                 <li>
                   <a
-                    href={`#about`}
-                    className="text-sm text-muted-foreground transition-colors hover:text-foreground"
-                  >
-                    About
-                  </a>
-                </li>
-                <li>
-                  <a
                     href={`#services`}
                     className="text-sm text-muted-foreground transition-colors hover:text-foreground"
                   >
                     Our Drinks
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href={`#contact`}
+                    className="text-sm text-muted-foreground transition-colors hover:text-foreground"
+                  >
+                    Contact
                   </a>
                 </li>
               </ul>
@@ -71,15 +71,15 @@ export default function Footer() {
               <li className="flex items-start gap-2 text-sm text-muted-foreground">
                 <Phone className="mt-0.5 h-4 w-4 shrink-0" aria-hidden="true" />
                 <a
-                  href={`tel:+1 (555) 123-4567`}
+                  href={`tel:651859143`}
                   className="transition-colors hover:text-foreground"
                 >
-                  +1 (555) 123-4567
+                  651859143
                 </a>
               </li>
               <li className="flex items-start gap-2 text-sm text-muted-foreground">
                 <MapPin className="mt-0.5 h-4 w-4 shrink-0" aria-hidden="true" />
-                <span>123 Market Street, San Francisco, CA 94103</span>
+                <span>Limpopo Makhado</span>
               </li>
             </ul>
           </div>

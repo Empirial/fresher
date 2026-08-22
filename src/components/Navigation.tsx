@@ -18,7 +18,7 @@ export default function Navigation() {
             href="#services"
             className="text-sm font-medium text-foreground transition-colors hover:text-primary"
           >
-            Our Beverages
+            Services
           </a>
         </nav>
 
@@ -26,7 +26,7 @@ export default function Navigation() {
           href="/"
           className="mx-auto shrink-0 text-xl font-bold text-foreground md:mx-8"
         >
-          Fresher
+          Dr. P
         </a>
 
         <nav className="hidden flex-1 items-center justify-start gap-8 md:flex">
@@ -37,10 +37,10 @@ export default function Navigation() {
             Reviews
           </a>
           <a
-            href="#contact"
+            href="tel:651859143"
             className="rounded-md bg-primary px-4 py-2 text-sm font-semibold text-primary-foreground transition-opacity hover:opacity-90"
           >
-            Get in Touch
+            Book a Free Call
           </a>
         </nav>
 
@@ -68,7 +68,7 @@ export default function Navigation() {
               href="#services"
               className="rounded-md px-3 py-2 text-sm font-medium text-foreground hover:bg-muted"
             >
-              Our Beverages
+              Services
             </a>
             <a
               href="#testimonials"
@@ -77,10 +77,10 @@ export default function Navigation() {
               Reviews
             </a>
             <a
-              href="#contact"
+              href="tel:651859143"
               className="mt-2 rounded-md bg-primary px-3 py-2 text-center text-sm font-semibold text-primary-foreground"
             >
-              Get in Touch
+              Book a Free Call
             </a>
           </div>
         </nav>

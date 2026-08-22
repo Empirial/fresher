@@ -5,22 +5,22 @@ export default function Hero() {
         <div>
           <img
             src="https://placehold.co/960x640/e2e8f0/475569?text=hero"
-            alt="A vibrant glass of Fresher's sparkling fruit beverage with ice and fresh citrus slices"
+            alt="A calm, welcoming therapy office with soft natural light and a comfortable seating area"
             className="aspect-[4/3] w-full rounded-lg border border-border object-cover"
           />
         </div>
         <div className="flex flex-col items-start text-left">
           <h1 className="text-4xl font-bold tracking-tight text-foreground sm:text-5xl">
-            Taste the Freshness in Every Sip
+            A Brighter Mind Starts With One Conversation
           </h1>
           <p className="mt-6 text-lg text-muted-foreground sm:text-xl">
-            Premium, all-natural beverages crafted to refresh your day—bold flavors, zero compromises.
+            I'm Dr. Sarah Mitchell, a licensed psychologist helping adults navigate anxiety, stress, and life transitions. Your first consultation is free—call 651-859-143 to see if we're a good fit.
           </p>
           <a
-            href="/shop"
+            href="tel:651859143"
             className="mt-8 inline-flex items-center justify-center rounded-md bg-primary px-8 py-3 text-base font-semibold text-primary-foreground transition-colors hover:opacity-90"
           >
-            Shop Now
+            Call 651-859-143
           </a>
         </div>
       </div>
